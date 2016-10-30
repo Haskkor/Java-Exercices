@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="8- SupCommerce - JAX-RS with JAXB">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="8-_SupCommerce_-_JAX-RS_with_JAXB"/>
+        <property name="java-output-path" value="/8- SupCommerce - JAX-RS with JAXB/build/classes"/>
+    </wb-module>
+</project-modules>
